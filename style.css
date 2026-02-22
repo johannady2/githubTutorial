@@ -42,6 +42,7 @@ h3
     text-transform: uppercase;
 }
 
+<<<<<<< HEAD
 @media (hover: hover) { /*This fixes button being stock on hover state after pressing the button on the mobile version*/
     #random:hover
     {
@@ -55,6 +56,11 @@ h3
 #random:active
 {
     cursor: pointer;
+=======
+#random:hover
+{
+    cursor:pointer;
+>>>>>>> 9ab1158d21374473179c74dafd0581318e2a9f0d
     transform: translateY(4px);
     box-shadow: none;
 }
