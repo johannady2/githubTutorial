@@ -1,1 +1,0 @@
-https://johannady2.github.io/backgroundGeneratorProjECMAS6VERSION2/
